@@ -1,5 +1,6 @@
 # Catalogo de Livros (LiterAlura)
-Este projeto é um desafio proposto no programa ONE - Oracle Next Education. Um programa de ensino realizado em parceria da Alura com a Oracle.
+Este é um projeto desenvolvido através da plataforma de ensino Alura em conjunto com a Oracle.
+T6-ONE
 
 ### Descrição do desafio
 Desenvolver um Catálogo de Livros que ofereça interação por console com os usuários, proporcionando no mínimo 5 opções de interação. 
